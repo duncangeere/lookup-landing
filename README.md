@@ -1,2 +1,2 @@
 # lookup-landing
-The landing page for the Look Up site
+These are the files for the landing page for Look Up. Questions, comments and issues/pull requests welcome.
